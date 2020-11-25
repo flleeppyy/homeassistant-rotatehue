@@ -14,13 +14,13 @@ All configuration options have been labeled for your convenience
 
 ## Todo
 
-[ ] Get light's original hue so we can change the hue from there
+- [ ] Get light's original hue so we can change the hue from there
 
-[ ] Reverse hue changing
+- [ ] Reverse hue changing
 
-[ ] Change multiple lights at once
+- [ ] Change multiple lights at once
 
-[ ] (Stupid idea) Create a web interface for this, with authorization and all that jazz (i told you it was stupid)
+- [ ] (Stupid idea) Create a web interface for this, with authorization and all that jazz (i told you it was stupid)
 
 ## Contributing
 
