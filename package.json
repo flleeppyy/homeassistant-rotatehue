@@ -1,0 +1,12 @@
+{
+  "name": "homeassistant-rotatehue",
+  "version": "1.0.0",
+  "description": "This rotates the hue of a light in home assistant. Its a very simple way to do it but it gets the job done",
+  "main": "index.js",
+  "repository": "https://github.com/flleeppyy/homeassistant-rotatehue",
+  "author": "flleeppyy",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^7.4.0"
+  }
+}
